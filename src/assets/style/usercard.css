@@ -1,0 +1,21 @@
+.page-title {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    font-size: xx-large;
+    color: blue;
+}
+
+.user-card-container {
+
+}
+.user-card {
+    margin: 20px 8%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    padding: 20px;
+    cursor: pointer;
+    border-radius: 18px;
+}
